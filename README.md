@@ -36,6 +36,7 @@ pandas、numpy、sklearn、XGBOOST、tensorflow
 4.1 測試 SVM、隨機森林(回歸和分類)、XGBOOST、LMST循環神經網路
 4.2 precision ( 精確度)：正確預測為正的，佔全部預測為正的比例。 recall（召回率）：正確預測為正的，佔全部實際為正的比例。而一般實務上0.7 - 0.85：效果一般，0.85 - 0.95：效果很好，而我們目前預估值介於0.80~0.92左右
 4.4 因將youbike預測車輛數具有異質性，可能因疫情、政策、優惠活動等實際情形而將youbike車輛預估的數量差異，僅可作為客觀條件下的參考，不代表絕對的youbike預測車輛數。
+
 About
 No description, website, or topics provided.
 Resources
